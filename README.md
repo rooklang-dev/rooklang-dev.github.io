@@ -16,3 +16,8 @@ Rook is a programming language, which is a WIP and to be written in various diff
   2. Rust
   3. Python (not decided)
   4. C++ (not decided)
+# Goals / TODOs
+
+1. Execute the current plan.
+2. Build a github page.
+3. Write an wiki (probably).
